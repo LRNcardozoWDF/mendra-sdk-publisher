@@ -1,0 +1,14 @@
+*.lock
+*.bin
+.gradle/9.0.0/gc.properties
+.gradle/buildOutputCleanup/cache.properties
+.gradle/vcs-1/gc.properties
+.gradle/file-system.probe
+sdk/build/tmp/jar/MANIFEST.MF
+*.jar
+sdk/build/publications/maven/module.json
+gradle/wrapper/gradle-wrapper.properties
+sdk/build/publications/maven/pom-default.xml
+sdk/build/tmp/publishMavenPublicationToGitHubPackagesRepository/module-maven-metadata.xml
+gradlew
+gradlew.bat

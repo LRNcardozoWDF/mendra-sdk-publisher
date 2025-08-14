@@ -16,7 +16,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/YOUR_USERNAME/mendra-sdk-publisher")
+            url = uri("https://maven.pkg.github.com/LRNcardozoWDF/mendra-sdk-publisher")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
