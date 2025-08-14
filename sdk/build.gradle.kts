@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.example"
-version = "1.0.0-test1"
+version = "1.0.1-test1"
 
 publishing {
     publications {
