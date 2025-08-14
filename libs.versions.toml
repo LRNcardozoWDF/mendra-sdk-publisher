@@ -1,0 +1,6 @@
+
+[versions]
+sdk = "1.0.0-test1"
+
+[libraries]
+sdk-android = { module = "com.example:sdk-android", version.ref = "sdk" }
